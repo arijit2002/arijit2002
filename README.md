@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=arijit2002&style=plastic)
 <h1 align="center">Hi 👋, I'm Arijit Das</h1>
-<h3 align="center">Technophile</h3>
+<h3 align="center">Curious </h3>
 
 - 🔭 I’m currently studying BCA in **Institute of Engineering and Management.**
 
