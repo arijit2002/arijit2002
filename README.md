@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=arijit2002)
-
+![](https://komarev.com/ghpvc/?username=arijit2002&style=plastic)
 <h1 align="center">Hi 👋, I'm Arijit Das</h1>
 <h3 align="center">Technophile</h3>
 
