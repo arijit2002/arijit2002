@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arijit Das</h1>
 <h3 align="center">Technophile</h3>
 
+![](https://komarev.com/ghpvc/?username=arijit2002)
+
 - 🔭 I’m currently studying BCA in **Institute of Engineering and Management.**
 
 - 🌱 I’m currently focusing on **learning new technical skills.**
