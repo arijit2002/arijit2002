@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently focusing on **learning new technical skills.**
 
-- 📫 How to reach me **das10arijit@gmail.com**
+- 📫 How to reach me **arijit10das2002@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
