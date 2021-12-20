@@ -24,9 +24,9 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=arijit2002&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit2002&show_icons=true&theme=onedark&title_color=050505&text_color=50b96a&bg_color=ffffff&locale=en&layout=compact" alt="arijit2002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit2002&show_icons=true&theme=onedark&title_color=CCFF00&text_color=66FF66&bg_color=000000&locale=en&layout=compact" alt="arijit2002" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijit2002&show_icons=true&theme=dracula&title_color=000000&text_color=050505&bg_color=ffffff&locale=en" alt="arijit2002" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijit2002&show_icons=true&theme=dracula&title_color=CCFF00&text_color=66FF66&bg_color=000000&locale=en" alt="arijit2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijit2002&theme=dark" alt="arijit2002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijit2002&theme=chartreuse-dark" alt="arijit2002" /></p>
