@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying BCA in **Institute of Engineering and Management.**
 
-- 🌱 I’m currently focusing on **learning new technical skills.**
+- 🌱 I’m currently focusing on **gaining new skills on Backend Development and Ethical Hacking.**
 
 - 📫 How to reach me **arijit10das2002@gmail.com**
 
