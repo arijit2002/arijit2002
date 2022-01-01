@@ -24,7 +24,9 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=arijit2002&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit2002&show_icons=true&theme=onedark&title_color=CCFF00&text_color=66FF66&bg_color=000000&locale=en&layout=compact" alt="arijit2002" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijit2002&theme=chartreuse-dark&langs_count=7)
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit2002&show_icons=true&theme=onedark&title_color=CCFF00&text_color=66FF66&bg_color=000000&locale=en&layout=compact" alt="arijit2002" /></p>-->
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijit2002&show_icons=true&theme=dracula&title_color=CCFF00&text_color=66FF66&bg_color=000000&locale=en" alt="arijit2002" /></p>
