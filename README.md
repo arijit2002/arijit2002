@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=arijit2002&style=plastic)
-<h1 align="center">Hi 👋, I'm Arijit Das</h1>
+<h1 align="center"><img src="https://38.media.tumblr.com/a123606e52db443841a6bb982d93febe/tumblr_n7a40sXB7P1r2geqjo1_r1_500.gif" width="35" height="35" />  Hi 👋, I'm Arijit Das <img src="https://38.media.tumblr.com/a123606e52db443841a6bb982d93febe/tumblr_n7a40sXB7P1r2geqjo1_r1_500.gif" width="35" height="35" /></h1>
 <h3 align="center">Just Curious </h3>
 
 - 🔭 I’m currently studying BCA in **Institute of Engineering and Management.**
