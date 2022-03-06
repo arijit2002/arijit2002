@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently focusing on **gaining new skills on Backend Web Development and Cyber Security.**
 
-- 📫 How to reach me **arijit10das2002@gmail.com**
+- 📫 How to reach me **iembca2023.arijitdas@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
