@@ -20,6 +20,8 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arijit2002&row=1&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+  
 <h3>Languages:</h3>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -59,16 +61,14 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="linux" width="40" height="40"/> </a>
 
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijit2002&theme=chartreuse-dark&langs_count=8)
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit2002&show_icons=true&theme=onedark&title_color=CCFF00&text_color=66FF66&bg_color=000000&locale=en&layout=compact" alt="arijit2002" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijit2002&show_icons=true&theme=dracula&title_color=CCFF00&text_color=66FF66&bg_color=000000&locale=en" alt="arijit2002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijit2002&theme=chartreuse-dark" alt="arijit2002" /></p>
+<p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijit2002&show_icons=true&theme=dracula&title_color=CCFF00&text_color=66FF66&bg_color=000000&locale=en" alt="arijit2002" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijit2002&theme=chartreuse-dark" alt="arijit2002" />
+</p>
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=arijit2002&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
