@@ -6,7 +6,7 @@
 
 - 🔭 Currently pursuing **BCA** in **_Institute of Engineering and Management._**
 
-<!--- 🌱 Focusing on **gaining new skills on _Backend Web Development and Cyber Security._**-->
+- 🌱 Focusing on **gaining new skills on _Backend Web Development and Cyber Security._**
 
 - 📫 Mail me here --> **_iembca2023.arijitdas@gmail.com_**
 
