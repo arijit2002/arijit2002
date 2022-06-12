@@ -62,7 +62,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="linux" width="40" height="40"/> </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijit2002&theme=chartreuse-dark&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijit2002&theme=chartreuse-dark&langs_count=11)
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit2002&show_icons=true&theme=onedark&title_color=CCFF00&text_color=66FF66&bg_color=000000&locale=en&layout=compact" alt="arijit2002" /></p>-->
 
