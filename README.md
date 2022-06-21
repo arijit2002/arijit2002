@@ -23,52 +23,51 @@
 
   
 <h3>Languages:</h3>
-<a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="60" height="30"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="60" height="30"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="60" height="30"/> </a>
-<a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="60" height="30"/> </a>
-<a href="https://html.com/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="60" height="30"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="60" height="30"/> </a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="60" height="30"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="70" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="70" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="70" height="40"/> </a>
+<a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="70" height="40"/> </a>
+<a href="https://html.com/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="70" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="80" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="70" height="40"/> </a> 
 
 
 
 <h3>Frameworks & Libraries:</h3>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="60" height="30"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" width="60" height="30"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="pandas" width="60" height="30"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="pandas" width="60" height="30"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="75" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" width="70" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="pandas" width="70" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="pandas" width="80" height="40"/> </a>
   
 <h3>Databases & Hosting:</h3>
-</a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="60" height="30"/> </a> 
-<a href="https://www.oracle.com/" target="_blank"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="oracle" width="60" height="30"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="oracle" width="60" height="30"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" width="60" height="30"/> </a>
-<a href="https://www.netlify.com/" target="_blank"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="heroku" width="60" height="30"/> </a>
+</a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="75" height="40"/> </a> 
+<a href="https://www.oracle.com/" target="_blank"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="oracle" width="70" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="oracle" width="70" height="40"/> </a>
+<a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" width="70" height="40"/> </a>
+<a href="https://www.netlify.com/" target="_blank"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="heroku" width="70" height="40"/> </a>
 
 
 <h3>Tools & IDEs:</h3>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="python" width="70" height="30"/> </a>
-<a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="python" width="60" height="30"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="spring" width="60" height="30"/> </a>
-<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jupyter" width="60" height="30"/> </a>
-<a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="jupyter" width="60" height="30"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="python" width="85" height="40"/> </a>
+<a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="python" width="70" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="spring" width="70" height="40"/> </a>
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jupyter" width="80" height="40"/> </a>
+<a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="jupyter" width="80" height="40"/> </a>
 <!-- <a href="https://www.wireshark.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="python" width="40" height="40"/> </a> -->
 
 
 
 <h3>OS:</h3>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" width="60" height="30"/> </a>
-<a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="linux" width="60" height="30"/> </a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijit2002&theme=chartreuse-dark&langs_count=11)
-
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit2002&show_icons=true&theme=onedark&title_color=CCFF00&text_color=66FF66&bg_color=000000&locale=en&layout=compact" alt="arijit2002" /></p>-->
-
-<p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijit2002&show_icons=true&theme=dracula&title_color=CCFF00&text_color=66FF66&bg_color=000000&locale=en" alt="arijit2002" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijit2002&theme=chartreuse-dark" alt="arijit2002" />
-</p>
-
+<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" width="70" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="linux" width="80" height="40"/> </a>
+  
+ <div style="display:block">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijit2002&theme=chartreuse-dark&langs_count=12" />
+    <div>
+      <p>
+      &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=arijit2002&show_icons=true&theme=dracula&title_color=CCFF00&text_color=66FF66&bg_color=000000&locale=en" alt="arijit2002" /></p>
+      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=arijit2002&theme=chartreuse-dark" alt="arijit2002" /></p>
+    </div>
+ </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=arijit2002&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
