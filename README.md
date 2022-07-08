@@ -6,7 +6,7 @@
 
 - 🔭 Currently pursuing **BCA** from **_Institute of Engineering and Management._**
 
-- 🌱 Focusing on **gaining new skills on _Backend Web Development and Cyber Security._**
+- 🌱 Focusing on **gaining new skills on _Backend Web Development and Security._**
 
 - 📫 Mail me here --> **_iembca2023.arijitdas@gmail.com_**
 
@@ -48,7 +48,7 @@
 
 
 <h3>Tools & IDEs:</h3>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="python" width="160" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="python" width="180" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="python" width="120" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="spring" width="120" height="40"/> </a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jupyter" width="140" height="40"/> </a>
