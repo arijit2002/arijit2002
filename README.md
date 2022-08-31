@@ -44,7 +44,6 @@
 <h3>Databases & Hosting:</h3>
 </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="120" height="35"/> </a> 
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="oracle" width="120" height="35"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="oracle" width="120" height="35"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" width="120" height="35"/> </a>
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="heroku" width="120" height="35"/> </a>
 
