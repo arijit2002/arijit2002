@@ -53,7 +53,6 @@
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="python" width="120" height="35"/> </a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jupyter" width="140" height="35"/> </a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="jupyter" width="140" height="35"/> </a>
-<a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="jupyter" width="140" height="35"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="pandas" width="120" height="35"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="spring" width="120" height="35"/> </a>
 <!--<a href="https://www.wireshark.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="python" width="40" height="35"/> </a>-->
