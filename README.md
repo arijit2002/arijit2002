@@ -21,7 +21,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arijit2002&row=1&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![@arijitdas2002's Holopin board](https://holopin.me/arijitdas2002)](https://holopin.io/@arijitdas2002)
+<!-- [![@arijitdas2002's Holopin board](https://holopin.me/arijitdas2002)](https://holopin.io/@arijitdas2002) -->
 
 <h3>Languages:</h3>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="100" height="35"/> </a>
