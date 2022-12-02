@@ -10,7 +10,7 @@
 
 - 📫 Mail me here --> **_iembca2023.arijitdas@gmail.com_**
 
-<h3>For Further Details, Visit My <i><a href="https://portfolio-arijit-das.herokuapp.com/" target="_main">Portfolio<a></i><h3>
+<h3>For Further Details, Visit My <i><a href="https://arijit-das.netlify.app/" target="_main">Portfolio<a></i><h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
