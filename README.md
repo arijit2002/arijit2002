@@ -74,4 +74,4 @@
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijit2002&langs_count=12&layout=compact&&theme=chartreuse-dark" align="right" style="width: 100%" /></div>
 </td></tr></table> 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=arijit2002&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arijit's github activity graph](https://activity-graph.herokuapp.com/graph?username=arijit2002&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
