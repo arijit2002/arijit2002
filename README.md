@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=arijit2002&style=plastic)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/399629a3-c87e-491a-9be3-8e6c326d7cf2/deploy-status)](https://app.netlify.com/sites/arijit-das/deploys)
 <!--![My image](http://url/to/image.jpg)-->
 <p><img src="arijit.gif" alt="gif"></p>
 <!--<h1 align="center"><img src="https://38.media.tumblr.com/a123606e52db443841a6bb982d93febe/tumblr_n7a40sXB7P1r2geqjo1_r1_500.gif" width="35" height="35" />  Hi 👋, I'm Arijit Das <img src="https://38.media.tumblr.com/a123606e52db443841a6bb982d93febe/tumblr_n7a40sXB7P1r2geqjo1_r1_500.gif" width="35" height="35" /></h1>-->
