@@ -8,7 +8,7 @@
 
 - 🌱 Focusing on **gaining new skills on _Web Development and Database Security._**
 
-- 📫 Mail me here --> **_iembca2023.arijitdas@gmail.com_**
+- 📫 Mail me here --> **_das10arijit@gmail.com_**
 
 <h3>For Further Details, Visit My <i><a href="https://arijit-das.netlify.app/" target="_main">Portfolio<a></i><h3>
 
