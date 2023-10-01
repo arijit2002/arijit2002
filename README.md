@@ -4,9 +4,7 @@
 <!--<h1 align="center"><img src="https://38.media.tumblr.com/a123606e52db443841a6bb982d93febe/tumblr_n7a40sXB7P1r2geqjo1_r1_500.gif" width="35" height="35" />  Hi 👋, I'm Arijit Das <img src="https://38.media.tumblr.com/a123606e52db443841a6bb982d93febe/tumblr_n7a40sXB7P1r2geqjo1_r1_500.gif" width="35" height="35" /></h1>-->
 <h3 align="center">Just Curious </h3>
 
-- 🔭 Currently pursuing **BCA** from **_Institute of Engineering and Management._**
-
-- 🌱 Focusing on **gaining new skills on _Backend Web Development & Web Security._**
+- 🌱 Focusing on **gaining new skills on _Backend Web Development & Database Security._**
 
 - 📫 Mail me here --> **_das10arijit@gmail.com_**
 
@@ -30,27 +28,26 @@
 <h3>Languages:</h3>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="100" height="35"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="120" height="35"/></a>
-<a href="https://html.com/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="120" height="35"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="130" height="35"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="javascript" width="130" height="35"/> </a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="100" height="35"/></a>
-<!-- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="100" height="35"/> </a>
-<a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="100" height="35"/> </a> -->
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="100" height="35"/> </a>
+<a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="100" height="35"/> </a>
 
 
 
 <h3>Frameworks & Libraries:</h3>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="140" height="35"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" width="120" height="35"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="pandas" width="120" height="35"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="pandas" width="120" height="35"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" width="120" height="35"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="pandas" width="140" height="35"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="pandas" width="120" height="35"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="140" height="35"/> </a>
   
 <h3>Databases & Hosting:</h3>
 </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="120" height="35"/> </a> 
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="oracle" width="120" height="35"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" width="120" height="35"/> </a>
+<a href="https://www.netlify.com/" target="_blank"> <img src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=netlify&logoColor=white" alt="heroku" width="120" height="35"/> </a>
+<a href="https://www.netlify.com/" target="_blank"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="heroku" width="120" height="35"/> </a>
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="heroku" width="120" height="35"/> </a>
+
 
 
 <h3>Tools & IDEs:</h3>
@@ -78,4 +75,4 @@
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijit2002&langs_count=12&layout=compact&&theme=chartreuse-dark" align="right" style="width: 100%" /></div>
 </td></tr></table> 
 
-[![Arijit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arijit2002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![An image of @arijitdas2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arijitdas2002)](https://holopin.io/@arijitdas2002)
