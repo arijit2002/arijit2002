@@ -23,7 +23,6 @@
 
 <h3>Badges</h3>
 <p>
-  <img src="aws-re-start-graduate.png" alt="gif">
   <img src="aws-certified-cloud-practitioner.png" alt="gif">
   <img src="introduction-to-cybersecurity (1).png" alt="gif">
 </p>
