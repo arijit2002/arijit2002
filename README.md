@@ -22,8 +22,11 @@
 <!-- [![@arijitdas2002's Holopin board](https://holopin.me/arijitdas2002)](https://holopin.io/@arijitdas2002) -->
 
 <h3>Badges</h3>
-<p><img src="aws-certified-cloud-practitioner.png" alt="gif">
-  <img src="introduction-to-cybersecurity (1).png" alt="gif"></p>
+<p>
+  <img src="aws-re-start-graduate.png" alt="gif">
+  <img src="aws-certified-cloud-practitioner.png" alt="gif">
+  <img src="introduction-to-cybersecurity (1).png" alt="gif">
+</p>
   
 <h3>Languages:</h3>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="100" height="35"/> </a>
