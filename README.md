@@ -25,7 +25,8 @@
 <p>
   <img src="aws-certified-cloud-practitioner.png" alt="gif">
   <img src="introduction-to-cybersecurity (1).png" alt="gif">
-</p>
+  <img src="medallia-product-certification.png" alt="gif">
+  </p>
   
 <h3>Languages:</h3>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="100" height="35"/> </a>
