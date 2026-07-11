@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Arijit+Das+%F0%9F%91%8B;Backend+Developer;Database+Security+Enthusiast;Full-Stack+Capable" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=6E40C9&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Arijit+Das+%F0%9F%91%8B;Backend+Developer;Building+Scalable+Backend+Systems;AI+%7C+Cloud+%7C+System+Design;Always+Learning+Something+New" />
 </div>
 
 <br/>
@@ -25,26 +25,42 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 ```yaml
 name       : Arijit Das
 role       : Backend Developer
-focus      : Backend Web Development & Database Security
-stack      : Node.js · Spring Boot · React · Flask
-databases  : MongoDB · Oracle
-crm        : Medallia · Qualtrics · Tableau
-certified  : AWS · Fortinet NSE 1 & 2 · Medallia · Qualtrics
-contact    : das10arijit@gmail.com
-portfolio  : https://arijit-das.netlify.app/
+focus      : Backend Development • AI • Cloud
+stack      : Node.js • React • Flask
+databases  : MongoDB • Oracle • MySQL
+cloud      : AWS
+crm        : Medallia • Qualtrics • Tableau
 ```
 
-> Backend-focused developer with hands-on experience building and securing web applications.
-> Comfortable across the full stack — REST APIs to React frontends and cloud deployments.
-> Also experienced with enterprise CRM and analytics platforms: **Medallia**, **Qualtrics**, and **Tableau**.
+### 🚀 Currently
+
+- 🔭 Building scalable backend systems
+- 🌱 Exploring AI Agents & LLM Applications
+- ☁️ AWS Certified Cloud Practitioner
+- 🛡️ Interested in Database Security
+- 💬 Ask me about Node.js, Spring Boot, React, MongoDB & System Design
+- ⚡ Fun fact: I enjoy trekking almost as much as I enjoy debugging.
+
+</td>
+
+<td width="38%" align="center">
+
+<img src="morse-profile.png" width="320" alt="Arijit Morse Portrait"/>
+
+</td>
+</tr>
+</table>
 
 ---
-
 ## 🛠️ Technical Skills
 
 <details open>
