@@ -154,7 +154,7 @@ crm        : Medallia • Qualtrics • Tableau
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arijit2002&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=arijit2002&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" />
@@ -163,7 +163,7 @@ crm        : Medallia • Qualtrics • Tableau
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijit2002&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
     </td>
   </tr>
-</table>
+</table> -->
 
 </div>
 
